@@ -1,1 +1,1 @@
-https://github.com/edwardtao0101/proyecto_integrador
+https://edwardtao0101.github.io/proyecto_integrador/
